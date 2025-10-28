@@ -1,5 +1,0 @@
-
-build/** linguist-vendored
-nbproject/** linguist-vendored
-
-*.sql linguist-language=SQL
